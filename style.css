@@ -1,0 +1,28 @@
+.navbar-brand{
+	margin-left : 533px;
+	font-size : 35px;
+}
+
+.hometitle{
+	text-align : center;
+}
+
+.card-body{
+	text-align : center;
+}
+
+.card-text{
+	font-style : italic;
+}
+
+.copyright{
+	text-align : center;
+}
+
+.input{
+	text-align : center;
+}
+
+h2{
+	font-style : italic;
+}
